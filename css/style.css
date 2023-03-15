@@ -85,7 +85,7 @@ h2 {
 .hero::before {    
   content: "";
   border-radius: 10px;
-  background-image: url("/images/Asset_hero.jpeg");
+  background-image: url("../images/Asset_hero.jpeg");
   background-size: cover;
   position: absolute;
   top: 0px;
